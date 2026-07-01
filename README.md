@@ -8,3 +8,9 @@ and compact IRI terms.
 
 It is not a full JSON-LD processor. Expansion, compaction, framing, remote
 context loading, and RDF dataset algorithms belong in a later processor layer.
+
+## Test
+
+```bash
+clojure -M:test
+```
