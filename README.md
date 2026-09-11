@@ -12,5 +12,5 @@ context loading, and RDF dataset algorithms belong in a later processor layer.
 ## Test
 
 ```bash
-clojure -M:test
+kbb -M:test
 ```
